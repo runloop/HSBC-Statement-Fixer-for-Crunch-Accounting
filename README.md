@@ -15,6 +15,8 @@ Here is a Python script you can run on your own computer* that will:
 
 The result is a directory of CSV files that you can identify easily and that will import into Crunch without any issues.
 
+* Currently only designed for Mac usage. Windows users will need to change the regex pattern to somethings that will match names created when downloading files with a name that already exists.
+
 Usage
 =====
 
